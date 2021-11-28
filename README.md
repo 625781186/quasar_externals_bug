@@ -1,24 +1,4 @@
-# app00
+About Quasar and webpack external bug . 
 
-## Project setup
-```
-npm install
-```
+[issues/8267](https://github.com/quasarframework/quasar/issues/8267)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
